@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to write code
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me fullsendhyserflip@icloud.com
-- 😄 Pronouns: him
+- 😄 Pronouns: he
 - ⚡ Fun fact: I love to play disc golf
 
 <!---
